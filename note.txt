@@ -1,0 +1,4 @@
+python3 justup.py
+http://[IP-Mac]:8080
+
+ipconfig getifaddr en0
